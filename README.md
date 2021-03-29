@@ -1,10 +1,13 @@
-
+## About Project Run
 <p align="center">
  For Login please run this seeder command to create logged in user 
-    php artisan db:seed --class=UsersTableSeeder
+   <b> php artisan db:seed --class=UsersTableSeeder </b>
 
 If you face any issue to run seeder please run compose dump-autoload command
 </p>
+
+
+
 
 ## About Laravel
 
